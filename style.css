@@ -9,6 +9,7 @@ body {
     grid-template-columns: repeat(5, 70px);
     gap: 6px;
     justify-content: center;
+    
     margin: 20px auto;
   }
   
