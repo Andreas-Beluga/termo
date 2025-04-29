@@ -1,4 +1,4 @@
-const sacolao_de_palavras = ["TERMO", "#####", "JOGAR", "PLUMA", "CARRO", "VIVER", "COMER", "PULAR", "DANÇA", "CANTO", "SOFRE", "PONTO", "LUISA", "KALEO", "LUCAS", "SENTO", "JUNTO", "GALOS", "PAULO", "TESTA", "TESTE", "TRIBO", "ZOADO", "QUILO", "URUBU", "MANGA", "HOMEM", "CELTA", "PORTA", "GELAR", "CORTE", "PORTE", "MULAS", "BULAS", "TUAS", "JUROS", "CUBOS", "POMBO", "COMBO", "BICHO", "ALEMÃ"];
+const sacolao_de_palavras = ["TERMO", "LEGAL", "#####", "JOGAR", "PLUMA", "CARRO", "VIVER", "COMER", "PULAR", "DANÇA", "CANTO", "SOFRE", "PONTO", "LUISA", "KALEO", "LUCAS", "SENTO", "JUNTO", "GALOS", "PAULO", "TESTA", "TESTE", "TRIBO", "ZOADO", "QUILO", "URUBU", "MANGA", "HOMEM", "CELTA", "PORTA", "GELAR", "CORTE", "PORTE", "MULAS", "BULAS", "TUAS", "JUROS", "CUBOS", "POMBO", "COMBO", "BICHO", "ALEMÃ"];
 let palavra_secreta_da_vez = pega_palavra_aleatoria();
 let linha_atual = 0;
 
